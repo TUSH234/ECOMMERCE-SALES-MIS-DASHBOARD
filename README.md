@@ -9,8 +9,7 @@ The primary objective of this project is to convert unstructured transactional d
 
 ## 🖥️ Dashboard Preview
 🛸 **Live Interface Preview:**
-
-
+https://github.com/TUSH234/ECOMMERCE-SALES-MIS-DASHBOARD/blob/main/Screenshot%20(780).png
 
 ---
 
